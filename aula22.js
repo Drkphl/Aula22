@@ -13,7 +13,7 @@
 //         if (Numeros[i] < Numeros[j]) {
 //             let ordem = Numeros[i];
 //             Numeros[i] = Numeros[j];
-//             Numeros[j] = ordem;
+//             Numeros[j] = ordem
 //         }
 //     }
 // }
